@@ -7,6 +7,7 @@ public class Automorphic {
             System.out.println("The Number is not Automorph");
         }
 
+      
 
     }
 
