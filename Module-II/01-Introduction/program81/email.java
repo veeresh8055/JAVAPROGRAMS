@@ -26,3 +26,7 @@ class email {
 // debit card
 // userProfile
 // // mobile battary
+//sim card 
+// water bottle
+// map 
+// location 
